@@ -1,4 +1,4 @@
-#SummaRex - Smart Summarization of Research Papers
+# SummaRex - Smart Summarization of Research Papers
 
 **Project Description: SummaRex - Smart Summarization of Research Papers**
 
